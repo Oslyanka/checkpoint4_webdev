@@ -3,13 +3,21 @@ import './App.css'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import Footer from './Footer'
 import Home from './Home'
+import Nav from './Nav'
 
 function App() {
 
   return (
     <>
     <BrowserRouter>
-    
+    <Nav />
+    <Routes>
+      <Route/>
+      <Route/>
+      <Route/>
+      <Route/>
+    </Routes>
+    <Footer />
     </BrowserRouter>
     </>
   )
