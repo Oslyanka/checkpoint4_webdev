@@ -1,3 +1,7 @@
+deploy do site: https://clever-duckanoo-5dce9a.netlify.app
+
+equipe: fiz sozinho RM - 99011 Aksel Viktor Caminha Rae
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
